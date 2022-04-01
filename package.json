@@ -4,8 +4,7 @@
   "description": "Ejemplo de backend",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "echo \"No test specified\""
+    
   },
   "keywords": [
     "sumar",
